@@ -1,0 +1,12 @@
+.btn {
+  margin-top: 15px;
+}
+
+html {
+  display: flex;
+  justify-content: center;
+}
+
+#table-show {
+  margin-top: 40px;
+}
